@@ -63,6 +63,27 @@ Database:
 **Advanced Search Features:** Incorporating more specific filters such as location radius or sorting by popularity.
 **Ratings and Reviews:** Enabling users to rate their experiences with sellers, enhancing trust and credibility.
 
+**Screenshots**
+
+### Home Page
+
+![index-1](https://github.com/user-attachments/assets/609bb89c-9f8d-4198-a4c2-6993ba1e652a)
+
+### Login Page
+<img width="926" alt="userlogin4" src="https://github.com/user-attachments/assets/5f9dc7a6-846a-44c9-85df-596d813ca8d9" />
+
+
+### Contact Seller Page
+<img width="929" alt="adminhome" src="https://github.com/user-attachments/assets/39a6197b-0605-41ba-96d8-81eae4a3c09b" />
+
+
+### User Profile Page
+![user-1](https://github.com/user-attachments/assets/5a21176c-7810-41d3-b0f1-8b0cf3dff6da)
+
+### jobs details Page
+![job table](https://github.com/user-attachments/assets/876e964c-b1ac-41fd-b236-6f132ffeeb06)
+
+
 **Conclusion**
 
 The E-Classifieds project is a comprehensive web platform that provides a user-friendly interface for buying and selling items and services. By implementing features like secure user authentication, ad management, search functionality, and responsive design, this project addresses the need for an efficient and organized space for classified ads. Built with modern web technologies, it offers a seamless experience for both buyers and sellers, ensuring secure transactions and easy navigation.
@@ -70,4 +91,7 @@ The E-Classifieds project is a comprehensive web platform that provides a user-f
 With future enhancements such as real-time messaging, payment gateway integration, and advanced search features, E-Classifieds has the potential to grow into a robust and scalable platform that connects users across various markets. This project was an excellent opportunity to apply my skills in web development, problem-solving, and user-centered design.
 
 By contributing to the development of this platform, I gained valuable experience in building full-stack applications and learned best practices in coding, project management, and user interface design. I look forward to continuing the development and improving the project based on user feedback and additional features.
+
+
+
 
